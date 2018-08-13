@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionList>
+    <Extension Id="com.cli3.panel">
+        <HostList>
+            <Host Name="ILST" Port="4040"/>
+        </HostList>
+    </Extension>
+</ExtensionList>
