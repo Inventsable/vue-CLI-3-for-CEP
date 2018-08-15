@@ -2,6 +2,8 @@
 
 > Barebones example of [Vue CLI 3](https://cli.vuejs.org/) and [vue-loader](http://vuejs.github.io/vue-loader) for Adobe CEP extensions with single file components
 
+![Demo](https://thumbs.gfycat.com/RealGrotesqueLacewing-size_restricted.gif)
+
 ## To do the above manually:
 
 > [NodeJS](https://nodejs.org/en/)
