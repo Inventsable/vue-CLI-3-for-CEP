@@ -32,9 +32,7 @@ export default {
 </script>
 
 <style>
-body {
-  background-color: #323232;
-}
+
 
 #test {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;

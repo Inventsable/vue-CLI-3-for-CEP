@@ -4,7 +4,9 @@
 
 ## To do the above manually:
 
-> [Vue CLI 3](https://cli.vuejs.org/) download:
+> [NodeJS](https://nodejs.org/en/)
+
+> For [Vue CLI 3](https://cli.vuejs.org/):
 
 ``` bash
 # install in terminal
