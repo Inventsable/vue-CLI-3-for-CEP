@@ -18,11 +18,10 @@
     <Extension Id="com.cli3.panel">
       <DispatchInfo>
         <Resources>
-          <!-- 1) -->
           <MainPath>./index.html</MainPath>
-          <!-- 2) -->
           <CEFCommandLine>
             <Parameter>--enable-nodejs</Parameter>
+            <!-- Doesn't show in Window > Extensions unless mixed content is also enabled -->
             <Parameter>--mixed-context</Parameter>
           </CEFCommandLine>
         </Resources>
@@ -31,7 +30,7 @@
         </Lifecycle>
         <UI>
           <Type>Panel</Type>
-          <Menu>cli3</Menu>
+          <Menu>CLI 3</Menu>
           <Geometry>
             <Size>
               <Height>100</Height>
