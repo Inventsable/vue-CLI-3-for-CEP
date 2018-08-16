@@ -1,10 +1,36 @@
+## index.html
+
+
+## src/main.js
+
+``` JavaScript
+import Vue from 'vue'
+import App from './App.vue'
+
+// All interaction and functions should be in App.vue, won't work here
+
+new Vue({
+  el: '#app',
+  render: h => h(App)
+})
+```
+
+## src/App.vue
+
+``` html
 <template>
   <div id="app">
+
     <!-- custom single file component -->
-    <!-- <demo> {{ msg }} </demo> -->
+    <demo></demo>
+
+    <!-- using reactive data -->
+    <span> {{ msg }} </span>
+
   </div>
 </template>
-
+```
+``` JavaScript
 <script>
 
 // define single file component
@@ -23,21 +49,11 @@ export default {
   }
 }
 </script>
-
+```
+``` css
+/* Additional styles */
 <style>
-body {
-  background-color: #323232;
-}
-
-#app {
-  display: flex;
-  height: 500px;
-  width: auto;
-  justify-content: center;
-  align-items: center;
-}
-
-/* Scrollbar to match Adobe */
+/* Scrollbars to match Adobe's: */
   ::-webkit-scrollbar {
     background: #2A2A2A;
   }
@@ -51,3 +67,4 @@ body {
     background: #525252;
   }
 </style>
+```
