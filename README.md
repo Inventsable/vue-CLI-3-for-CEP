@@ -2,7 +2,7 @@
 
 Barebones example of [Vue CLI 3](https://cli.vuejs.org/) for Adobe CEP extensions with single file components
 
-> Huge thanks to [Eric Robinson](https://github.com/ericdrobinson) for [his replies here](https://github.com/Inventsable/vue-CLI-3-for-CEP/blob/master/notes.MD)
+> Huge thanks to [Eric Robinson](https://github.com/ericdrobinson) for all his help and [replies here](https://github.com/Inventsable/vue-CLI-3-for-CEP/blob/master/notes.MD)
 
 
 ## Get started:
