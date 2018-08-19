@@ -2,7 +2,7 @@
 <ExtensionList>
     <Extension Id="com.cli3.panel">
         <HostList>
-            <Host Name="ILST" Port="4040"/>
+            <Host Name="ILST" Port="9001"/>
         </HostList>
     </Extension>
 </ExtensionList>

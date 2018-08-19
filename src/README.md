@@ -1,6 +1,3 @@
-## index.html
-
-
 ## src/main.js
 
 ``` JavaScript

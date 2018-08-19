@@ -1,4 +1,4 @@
-## conversation with Eric on CEP and webpack
+## replies about CEP and webpack
 
 > Explanation of workflow:
 

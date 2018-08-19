@@ -18,7 +18,8 @@
     <Extension Id="com.cli3.panel">
       <DispatchInfo>
         <Resources>
-          <MainPath>./index.html</MainPath>
+          <!-- <MainPath>./index.html</MainPath> -->
+          <MainPath>./index-dev.html</MainPath>
           <CEFCommandLine>
             <Parameter>--enable-nodejs</Parameter>
             <!-- Doesn't show in Window > Extensions unless mixed content is also enabled -->
@@ -33,16 +34,16 @@
           <Menu>CLI 3</Menu>
           <Geometry>
             <Size>
-              <Height>100</Height>
-              <Width>104</Width>
+              <Height>400</Height>
+              <Width>300</Width>
             </Size>
             <MaxSize>
-              <Height>280</Height>
-              <Width>150</Width>
+              <Height>500</Height>
+              <Width>500</Width>
             </MaxSize>
             <MinSize>
-              <Height>280</Height>
-              <Width>104</Width>
+              <Height>300</Height>
+              <Width>300</Width>
             </MinSize>
           </Geometry>
           <Icons />

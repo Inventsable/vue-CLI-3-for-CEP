@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- custom single file component -->
-    <!-- <demo> {{ msg }} </demo> -->
+    <demo> {{ msg }} </demo>
   </div>
 </template>
 
@@ -35,6 +35,7 @@ body {
   width: auto;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 
 /* Scrollbar to match Adobe */
