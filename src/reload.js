@@ -1,4 +1,5 @@
 console.log('Fury said to a mouse');
+
 try {
   var csInterface = new CSInterface();
 

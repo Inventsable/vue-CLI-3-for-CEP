@@ -5,6 +5,9 @@
 ``` bash
 # install in terminal
 npm install -g @vue/cli
+
+# install legacy templates for simplicity -- not a fan of the new UI
+npm install -g @vue/cli-init
 ```
 
 ## Create a [webpack template](https://www.npmjs.com/package/vue-cli):

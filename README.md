@@ -1,4 +1,8 @@
-# vue CLI 3 template
+
+
+# [A new version of this repo with condensed list of steps to get started can be found here](https://github.com/Inventsable/vue-cli3-CSInterface)
+
+## NOTE: Cli-3 has changed since I made this. I've tried updating what I've seen here, but the link above is up to date as of February 2019.
 
 Barebones example of [Vue CLI 3](https://cli.vuejs.org/) for Adobe CEP extensions with single file components
 
